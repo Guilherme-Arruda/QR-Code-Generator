@@ -1,7 +1,7 @@
 # QR Code Generator 
 
 QR Code Generator built with Python and CustomTkinter for GUI. <br>
-You can convert any text entry into a QR code. The generated QR code can be saved on the local machine as a PNG file.
+The generated QR code can be saved on the local machine as a PNG file.
  
 ## Screenshots
 
